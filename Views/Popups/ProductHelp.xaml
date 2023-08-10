@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<toolkit:Popup xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+               xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+               xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+               x:Class="Muquirana.Views.Popups.ProductHelp"
+               Color="Transparent"
+               >
+
+    <Border
+        BackgroundColor="{StaticResource Gray900}"
+        StrokeShape="RoundRectangle 15"
+        WidthRequest="300"
+        HeightRequest="600"
+        >
+
+
+        <ScrollView x:Name="rolarLado" Orientation="Horizontal">
+            <HorizontalStackLayout>
+                <!--0  300 600 900 1200 1500 1800-->
+                <Grid ColumnDefinitions="300,300,300,300, 300, 300, 300" >
+                    <!--page one-->
+                    <VerticalStackLayout Grid.Column="0">
+
+                        <Grid RowDefinitions="50,50,450,*">
+                            <Label Text="Help" Grid.Row="0" TextColor="Yellow" FontSize="Large" HorizontalTextAlignment="Center" Margin="20,10" />
+                            <Label Text="Entenda o funcionamento da lista de produtos." Grid.Row="1" HorizontalTextAlignment="Center" FontSize="12" TextColor="White" HorizontalOptions="Center" Margin="15,0"/>
+
+                            <Image Source="listadeprodutos.jpg" MaximumHeightRequest="450"  Margin="10,0" Grid.Row="2" HorizontalOptions="Center"/>
+                            <Button
+                                Grid.Row="3"
+
+                                BackgroundColor="Transparent"
+                                BorderWidth="0"
+                                WidthRequest="300"
+                                HeightRequest="30"
+                                VerticalOptions="Center"
+                                HorizontalOptions="Start"
+                                Clicked="InfoPage"
+                                Margin="10,10"
+                                >
+                                <Button.ImageSource>
+                                    <FontImageSource Glyph="info     " Size="20" FontFamily="definetiveIcon"
+                                                     Color="CornflowerBlue"/>
+                                </Button.ImageSource>
+                            </Button>
+                            <Label Text="sobre" Margin="-5,10" TextColor="CornflowerBlue" FontSize="16" HorizontalTextAlignment="Center" Grid.Row="3"/>
+                        </Grid>
+                    </VerticalStackLayout>
+
+                    <!--page two-->
+                    <VerticalStackLayout Grid.Column="1">
+                        <HorizontalStackLayout>
+                            <Grid ColumnDefinitions="*,210,*">
+                                <Button
+                                    BackgroundColor="Transparent"
+                                    BorderWidth="0"
+                                    HeightRequest="30"
+                                    WidthRequest="30"
+                                    HorizontalOptions="Start"
+                                    VerticalOptions="Start"
+                                    Margin="10"
+                                    Clicked="FistPage"
+                                    >
+                                    <Button.ImageSource>
+                                        <FontImageSource Glyph="chevron_left" Size="30" FontFamily="definetiveIcon"
+                                                         Color="Yellow"/>
+                                    </Button.ImageSource>
+                                </Button>
+                                <Button
+                                    BackgroundColor="Transparent"
+                                    BorderWidth="0"
+                                    HeightRequest="30"
+                                    WidthRequest="30"
+                                    HorizontalOptions="End"
+                                    VerticalOptions="Start"
+                                    Clicked="ThirdPage"
+                                    Grid.Column="2"
+                                    Margin="-5,10"
+                                    >
+                                    <Button.ImageSource>
+                                        <FontImageSource Glyph="chevron_right" Size="30" FontFamily="definetiveIcon"
+                                                         Color="Yellow"/>
+                                    </Button.ImageSource>
+                                </Button>
+                            </Grid>
+                        </HorizontalStackLayout>
+
+                        <Grid RowDefinitions="20,*,*">
+
+                            <Border WidthRequest="280"
+                                    StrokeShape="RoundRectangle 10"
+                                    BackgroundColor="{StaticResource Gray950}"
+                                    Grid.Row="1"
+                                    x:Name="PlusElements"
+                                    >
+                                <Grid RowDefinitions="100,*" Margin="10,50"  >
+                                    <Image   Grid.Row="0" Source="novoprodutobotao.jpg" WidthRequest="150" HorizontalOptions="Center" VerticalOptions="Start" Margin="20"/>
+                                    <Label   Grid.Row="1" Text="  Clique no botão verde para adicionar novo produto." TextColor="White" HorizontalTextAlignment="Center" FontSize="12" VerticalOptions="Center" LineBreakMode="WordWrap"  MaxLines="3" Margin="10,0"/>
+                                </Grid>
+                            </Border>
+
+                            <Border WidthRequest="280"
+                                    StrokeShape="RoundRectangle 10"
+                                    Margin="0,10"
+                                    Grid.Row="2"
+                                    BackgroundColor="{StaticResource Gray950}"
+                                    x:Name="PlusElements2"
+                                    >
+                                <Grid RowDefinitions="*,*" Padding="10">
+                                    <Image Grid.Row="0"   Source="novoproduto.jpg" WidthRequest="200" HorizontalOptions="Center" Margin="0,10"/>
+                                    <Label Grid.Row="1"
+                                           Margin="15"
+                                           Text="  Você pode colocar somente o nome do produto se desejar e quantidade e valor podem ser atualizados depois."
+                                           HorizontalTextAlignment="Center"
+                                           TextColor="White"
+                                           FontSize="11"
+                                           VerticalOptions="Start"
+                                           LineBreakMode="WordWrap"
+                                           MaxLines="3"/>
+                                </Grid>
+                            </Border>
+
+                        </Grid>
+
+                    </VerticalStackLayout>
+
+                    <!--page three-->
+                    <VerticalStackLayout Grid.Column="2">
+                        <HorizontalStackLayout>
+                            <Grid ColumnDefinitions="23,20,220,*">
+                                <Button
+                                    BackgroundColor="Transparent"
+                                    BorderWidth="0"
+                                    HeightRequest="30"
+                                    WidthRequest="30"
+                                    HorizontalOptions="Start"
+                                    VerticalOptions="Start"
+                                    Clicked="FistPage"
+                                    Margin="10"
+                                    Grid.Column="0"
+                                    >
+                                    <Button.ImageSource>
+                                        <FontImageSource Glyph="first_page" Size="30" FontFamily="definetiveIcon"
+                                                         Color="Yellow"/>
+                                    </Button.ImageSource>
+                                </Button>
+                                <Button
+                                    BackgroundColor="Transparent"
+                                    BorderWidth="0"
+                                    HeightRequest="30"
+                                    WidthRequest="30"
+                                    HorizontalOptions="Start"
+                                    VerticalOptions="Start"
+                                    Margin="10"
+                                    Grid.Column="1"
+                                    Clicked="SecondPage"
+                                    >
+                                    <Button.ImageSource>
+                                        <FontImageSource Glyph="chevron_left" Size="30" FontFamily="definetiveIcon"
+                                                         Color="Yellow"/>
+
+                                    </Button.ImageSource>
+                                </Button>
+                                <Button
+                                    BackgroundColor="Transparent"
+                                    BorderWidth="0"
+                                    HeightRequest="30"
+                                    WidthRequest="30"
+                                    HorizontalOptions="End"
+                                    VerticalOptions="Start"
+                                    Margin="-5,10"
+                                    Clicked="FourthPage"
+                                    Grid.Column="3"
+                                    >
+                                    <Button.ImageSource>
+                                        <FontImageSource Glyph="chevron_right" Size="30" FontFamily="definetiveIcon"
+                                                         Color="Yellow"/>
+
+                                    </Button.ImageSource>
+                                </Button>
+                            </Grid>
+                        </HorizontalStackLayout>
+
+                        <Border WidthRequest="280"
+                                StrokeShape="RoundRectangle 10"
+                                BackgroundColor="{StaticResource Gray950}"
+                                x:Name="registersNewCalcu"
+                                >
+                            <Grid ColumnDefinitions="100,180">
+                                <Image Source="mostrar.jpg" HeightRequest="150" Grid.Column="0" Margin="15" HorizontalOptions="Center" />
+                                <Label Grid.Column="1"
+                                       Margin="10,15"
+                                       Text="A ideia desse botão é facilitar escondendo produtos clicados com o checkbox."
+                                       HorizontalTextAlignment="Start"
+                                       TextColor="White"
+                                       FontSize="12"
+                                       VerticalOptions="Start"
+                                       LineBreakMode="WordWrap"
+                                       />
+
+                            </Grid>
+                        </Border>
+                        <Border WidthRequest="280" StrokeShape="RoundRectangle 10"
+                                BackgroundColor="{StaticResource Gray950}"
+                                Margin="0,20"
+                                x:Name="registersNewCalcu2">
+                            <Grid RowDefinitions="*,*">
+                                <Image Source="esconder.jpg" HeightRequest="150" Grid.Row="0" Margin="15" HorizontalOptions="Center" />
+                                <Label Grid.Row="1"
+                                       Margin="15"
+                                       Text="Os itens da lista podem ser mostrados novamente basta clicar no mesmo botão."
+                                       HorizontalTextAlignment="Center"
+                                       TextColor="White"
+                                       FontSize="12"
+                                       VerticalOptions="Start"
+                                       LineBreakMode="WordWrap"
+                                       MaxLines="3"/>
+                            </Grid>
+
+                        </Border>
+
+                    </VerticalStackLayout>
+
+                    <!--page fourth-->
+
+                    <VerticalStackLayout Grid.Column="3">
+                        <HorizontalStackLayout>
+                            <Grid ColumnDefinitions="23,20,220,*">
+                                <Button
+                                    BackgroundColor="Transparent"
+                                    BorderWidth="0"
+                                    HeightRequest="30"
+                                    WidthRequest="30"
+                                    HorizontalOptions="Start"
+                                    VerticalOptions="Start"
+                                    Clicked="FistPage"
+                                    Margin="10"
+                                    Grid.Column="0"
+                                    >
+                                    <Button.ImageSource>
+                                        <FontImageSource Glyph="first_page" Size="30" FontFamily="definetiveIcon"
+                                                         Color="Yellow"/>
+                                    </Button.ImageSource>
+                                </Button>
+                                <Button
+                                    BackgroundColor="Transparent"
+                                    BorderWidth="0"
+                                    HeightRequest="30"
+                                    WidthRequest="30"
+                                    HorizontalOptions="Start"
+                                    VerticalOptions="Start"
+                                    Margin="10"
+                                    Grid.Column="1"
+                                    Clicked="ThirdPage"
+                                    >
+                                    <Button.ImageSource>
+                                        <FontImageSource Glyph="chevron_left" Size="30" FontFamily="definetiveIcon"
+                                                         Color="Yellow"/>
+
+                                    </Button.ImageSource>
+                                </Button>
+                                <Button
+                                    BackgroundColor="Transparent"
+                                    BorderWidth="0"
+                                    HeightRequest="30"
+                                    WidthRequest="30"
+                                    HorizontalOptions="End"
+                                    VerticalOptions="Start"
+                                    Margin="-5,10"
+                                    Clicked="FithPage"
+                                    Grid.Column="3"
+                                    >
+                                    <Button.ImageSource>
+                                        <FontImageSource Glyph="chevron_right" Size="30" FontFamily="definetiveIcon"
+                                                         Color="Yellow"/>
+
+                                    </Button.ImageSource>
+                                </Button>
+                            </Grid>
+                        </HorizontalStackLayout>
+                        <Border WidthRequest="280" HeightRequest="250" StrokeShape="RoundRectangle 10"
+                                BackgroundColor="{StaticResource Gray950}"
+                                >
+                            <Grid RowDefinitions="170,*">
+                                <Image Source="somaprodutos.jpg" WidthRequest="250" HorizontalOptions="Center" Grid.Row="0" Margin="15"/>
+                                <Label Grid.Row="1"
+                                       Margin="15"
+                                       Text="Quando a Soma estiver aparente o valor mostrado é da soma de todos os produtos com suas respectivas quantidades."
+                                       HorizontalTextAlignment="Center"
+                                       TextColor="White"
+                                       FontSize="12"
+                                       VerticalOptions="Start"
+                                       LineBreakMode="WordWrap"
+                                       />
+                            </Grid>
+
+                        </Border>
+                        <Border WidthRequest="280" StrokeShape="RoundRectangle 10"
+                                BackgroundColor="{StaticResource Gray950}"
+                                Margin="0,20"
+                                >
+                            <Grid RowDefinitions="160,*">
+                                <Image Source="agastar.jpg"
+                                       WidthRequest="250"
+                                       HorizontalOptions="Center"
+                                       VerticalOptions="Start"
+                                       Grid.Row="0"
+                                       Margin="15"/>
+                                <Label Grid.Row="1"
+                                       Margin="15"
+                                       Text="Após clicar no botão Soma você receberá a possíbilidade de adicionar um valor o qual está disponivel para essa lista, esse valor pode ser editado posteriormente se preciso."
+                                       HorizontalTextAlignment="Start"
+                                       TextColor="White"
+                                       FontSize="11"
+                                       VerticalOptions="Start"
+                                       LineBreakMode="WordWrap"
+                                       />
+                            </Grid>
+
+                        </Border>
+                    </VerticalStackLayout>
+
+                    <!--page five-->
+                    <VerticalStackLayout Grid.Column="4">
+                        <Grid RowDefinitions="50,10,*" VerticalOptions="Start">
+                            <HorizontalStackLayout Grid.Row="0">
+                                <Grid ColumnDefinitions="23,20,220,*">
+                                    <Button
+                                        BackgroundColor="Transparent"
+                                        BorderWidth="0"
+                                        HeightRequest="30"
+                                        WidthRequest="30"
+                                        HorizontalOptions="Start"
+                                        VerticalOptions="Start"
+                                        Clicked="FistPage"
+                                        Margin="10"
+                                        Grid.Column="0"
+                                        >
+                                        <Button.ImageSource>
+                                            <FontImageSource Glyph="first_page" Size="30" FontFamily="definetiveIcon"
+                                                             Color="Yellow"/>
+                                        </Button.ImageSource>
+                                    </Button>
+                                    <Button
+                                        BackgroundColor="Transparent"
+                                        BorderWidth="0"
+                                        HeightRequest="30"
+                                        WidthRequest="30"
+                                        HorizontalOptions="Start"
+                                        VerticalOptions="Start"
+                                        Margin="10"
+                                        Grid.Column="1"
+                                        Clicked="FourthPage"
+                                        >
+                                        <Button.ImageSource>
+                                            <FontImageSource Glyph="chevron_left" Size="30" FontFamily="definetiveIcon"
+                                                             Color="Yellow"/>
+
+                                        </Button.ImageSource>
+                                    </Button>
+                                    <Button
+                                        BackgroundColor="Transparent"
+                                        BorderWidth="0"
+                                        HeightRequest="30"
+                                        WidthRequest="30"
+                                        HorizontalOptions="End"
+                                        VerticalOptions="Start"
+                                        Clicked="Sixthpage"
+                                        Margin="-5,10"
+                                        Grid.Column="3"
+                                        >
+                                        <Button.ImageSource>
+                                            <FontImageSource Glyph="chevron_right" Size="30" FontFamily="definetiveIcon"
+                                                             Color="Yellow"/>
+
+                                        </Button.ImageSource>
+                                    </Button>
+                                </Grid>
+                            </HorizontalStackLayout>
+
+                            <Border WidthRequest="280" StrokeShape="RoundRectangle 10" Grid.Row="2"
+                                    BackgroundColor="{StaticResource Gray950}"
+                                    >
+                                <Grid RowDefinitions="190,*">
+                                    <Image Source="restante.jpg" Grid.Row="0" WidthRequest="250"  Margin="15" HorizontalOptions="Center" />
+                                    <Label Grid.Row="1"
+                                           Margin="15"
+                                           Text=" Restante com esse botão você terá de forma aparente a diferença entre o valor a gastar e o valor da soma."
+                                           HorizontalTextAlignment="Center"
+                                           TextColor="White"
+                                           FontSize="12"
+                                           VerticalOptions="Start"
+                                           LineBreakMode="WordWrap"/>
+                                </Grid>
+
+
+                            </Border>
+
+                        </Grid>
+                    </VerticalStackLayout>
+
+                    <!--page six-->
+
+                    <VerticalStackLayout Grid.Column="5">
+                        <Grid RowDefinitions="50,10,*" VerticalOptions="Start">
+                            <HorizontalStackLayout Grid.Row="0">
+                                <Grid ColumnDefinitions="23,20,220,*">
+                                    <Button
+                                        BackgroundColor="Transparent"
+                                        BorderWidth="0"
+                                        HeightRequest="30"
+                                        WidthRequest="30"
+                                        HorizontalOptions="Start"
+                                        VerticalOptions="Start"
+                                        Clicked="FistPage"
+                                        Margin="10"
+                                        Grid.Column="0"
+                                        >
+                                        <Button.ImageSource>
+                                            <FontImageSource Glyph="first_page" Size="30" FontFamily="definetiveIcon"
+                                                             Color="Yellow"/>
+                                        </Button.ImageSource>
+                                    </Button>
+                                    <Button
+                                        BackgroundColor="Transparent"
+                                        BorderWidth="0"
+                                        HeightRequest="30"
+                                        WidthRequest="30"
+                                        HorizontalOptions="Start"
+                                        VerticalOptions="Start"
+                                        Margin="10"
+                                        Grid.Column="1"
+                                        Clicked="FithPage"
+                                        >
+                                        <Button.ImageSource>
+                                            <FontImageSource Glyph="chevron_left" Size="30" FontFamily="definetiveIcon"
+                                                             Color="Yellow"/>
+
+                                        </Button.ImageSource>
+                                    </Button>
+                                    <Button
+                                        BackgroundColor="Transparent"
+                                        BorderWidth="0"
+                                        HeightRequest="30"
+                                        WidthRequest="30"
+                                        HorizontalOptions="End"
+                                        VerticalOptions="Start"
+                                        Clicked="InfoPage"
+                                        Margin="-5,10"
+                                        Grid.Column="3"
+                                        >
+                                        <Button.ImageSource>
+                                            <FontImageSource Glyph="chevron_right" Size="30" FontFamily="definetiveIcon"
+                                                             Color="Yellow"/>
+
+                                        </Button.ImageSource>
+                                    </Button>
+                                </Grid>
+                            </HorizontalStackLayout>
+
+
+                            <Border WidthRequest="280" StrokeShape="RoundRectangle 10" Grid.Row="2"
+                                    BackgroundColor="{StaticResource Gray950}"
+                                    >
+                                <Grid RowDefinitions="*,*">
+                                    <Image Source="excluirproduto.jpg" Grid.Row="0" WidthRequest="250"  Margin="15" HorizontalOptions="Center" />
+                                    <Label Grid.Row="1"
+                                           Margin="15"
+                                           Text="Fazendo um pequeno slide para o lado esquerdo você poderá ver o icone para deleter o produto."
+                                           HorizontalTextAlignment="Center"
+                                           TextColor="White"
+                                           FontSize="12"
+                                           VerticalOptions="Start"
+                                           LineBreakMode="WordWrap"/>
+                                </Grid>
+                            </Border>
+                        </Grid>
+                    </VerticalStackLayout>
+
+                    <!--page info-->
+
+                    <VerticalStackLayout Grid.Column="6">
+
+                        <HorizontalStackLayout Grid.Row="0">
+                            <Grid ColumnDefinitions="23,20,220,*">
+                                <Button
+                                    BackgroundColor="Transparent"
+                                    BorderWidth="0"
+                                    HeightRequest="30"
+                                    WidthRequest="30"
+                                    HorizontalOptions="Start"
+                                    VerticalOptions="Start"
+                                    Clicked="FistPage"
+                                    Margin="10"
+                                    Grid.Column="0"
+                                    >
+                                    <Button.ImageSource>
+                                        <FontImageSource Glyph="first_page" Size="30" FontFamily="definetiveIcon"
+                                                         Color="Yellow"/>
+                                    </Button.ImageSource>
+                                </Button>
+                                <Button
+                                    BackgroundColor="Transparent"
+                                    BorderWidth="0"
+                                    HeightRequest="30"
+                                    WidthRequest="30"
+                                    HorizontalOptions="Start"
+                                    VerticalOptions="Start"
+                                    Margin="10"
+                                    Grid.Column="1"
+                                    Clicked="Sixthpage"
+                                    >
+                                    <Button.ImageSource>
+                                        <FontImageSource Glyph="chevron_left" Size="30" FontFamily="definetiveIcon"
+                                                         Color="Yellow"/>
+
+                                    </Button.ImageSource>
+                                </Button>
+
+                            </Grid>
+                        </HorizontalStackLayout>
+                        <Grid RowDefinitions="100,100,235,100" >
+                            <Label Text="Sobre" TextColor="Yellow" FontSize="35" HorizontalTextAlignment="Center" VerticalTextAlignment="Start" Grid.Row="0" />
+                            <Label Text="Essa aplicação foi desenvolvida para facilitar ações simples do dia a dia como compras no mercado e auxiliar as pessoas a economizar."
+                                   FontSize="12"
+                                   Grid.Row="1"
+                                   TextColor="{StaticResource BrancoCalcu}"
+                                   Margin="20,0"
+                                   />
+
+                            <Label Text="versão da aplicação: 0.5b"
+                                   TextColor="SkyBlue"
+                                   FontSize="14"
+                                   HorizontalTextAlignment="Start"
+                                   Margin="10" VerticalOptions="Center"
+                                   Grid.Row="2" />
+                            <Label Text="Desenvolvido por Rodrigo M Sedrez."
+                                   TextColor="{StaticResource Gray100}"
+                                   FontSize="12"
+                                   Margin="10,0"
+                                   HorizontalTextAlignment="Start"
+                                   VerticalTextAlignment="End"
+                                   Grid.Row="3" />
+
+
+                        </Grid>
+
+
+
+                    </VerticalStackLayout>
+
+
+                </Grid>
+
+            </HorizontalStackLayout>
+        </ScrollView>
+
+    </Border>
+</toolkit:Popup>

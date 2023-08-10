@@ -1,0 +1,3 @@
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\publish\com.companyname.muquirana-Signed.aab
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\publish\com.companyname.muquirana.aab
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\publish\com.companyname.muquirana-Signed.apk

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<toolkit:Popup xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+               xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+               x:Class="Muquirana.Views.Popups.ListasAdd"
+               xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+               Color="Transparent"
+               HorizontalOptions="Center"
+               VerticalOptions="Start"
+
+               >
+    <Grid RowDefinitions="100,*"> <!--this grid determine the position of popup on screen-->
+        <Border
+            StrokeShape="RoundRectangle 15"
+            StrokeThickness="0"
+            BackgroundColor="{AppThemeBinding Light={StaticResource Gray100}, Dark={StaticResource Gray600}}"
+            HeightRequest="170"
+            WidthRequest="300"
+            Grid.Row="1"
+            Padding="10"
+            >
+            <VerticalStackLayout >
+
+                <Label
+                    Text="Nova Lista"
+                    FontAttributes="Bold"
+                    TextColor="{AppThemeBinding Light={StaticResource Black}, Dark={StaticResource BrancoCalcu}}"
+                    FontSize="18"
+                    Margin="10,5"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    x:Name="NewCalcuName"/>
+
+                <Entry Placeholder=""
+                       MaxLength="12"
+                       VerticalTextAlignment="Center"
+                       WidthRequest="200"
+                       FontSize="16"
+                       Margin="0,15"
+                       x:Name="nomeEntry"
+                       TextColor="{AppThemeBinding Light={StaticResource Gray950}, Dark={StaticResource BrancoCalcu}}"
+                       PlaceholderColor="{AppThemeBinding Light={StaticResource Gray300}, Dark={StaticResource Gray300}}"/>
+
+
+                <HorizontalStackLayout HorizontalOptions="End" VerticalOptions="End"  Margin="8,-5">
+                    <Button Text="Cancelar"
+                            FontAttributes="Bold"
+                            FontFamily="OpenSansRegular"
+                            BackgroundColor="Transparent"
+                            FontSize="12"
+                            BorderWidth="0"
+                            TextColor="{AppThemeBinding Light={StaticResource Black}, Dark={StaticResource White}}"
+                            HorizontalOptions="End"
+                            VerticalOptions="End"
+                            Clicked="Button_Clicked_Cancel"
+                            />
+
+                    <Button Text="Ok"
+                            FontFamily="OpenSansRegular"
+                            FontAttributes="Bold"
+                            BackgroundColor="Transparent"
+                            FontSize="12"
+                            BorderWidth="0"
+                            TextColor="{AppThemeBinding Light={StaticResource Black}, Dark={StaticResource White}}"
+                            HorizontalOptions="End"
+                            VerticalOptions="End"
+                            Clicked="Button_Clicked_Ok"
+                            />
+                </HorizontalStackLayout>
+
+
+            </VerticalStackLayout>
+        </Border>
+    </Grid>
+
+</toolkit:Popup>

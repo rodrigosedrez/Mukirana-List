@@ -1,0 +1,1038 @@
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\Muquirana.runtimeconfig.json
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\Muquirana.dll
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\Muquirana.pdb
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\com.companyname.muquirana.apk
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\com.companyname.muquirana.aab
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\com.companyname.muquirana-Signed.aab
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\com.companyname.muquirana-Signed.apk
+C:\AULAS\New folder\Muquirana\bin\Release\net7.0-android\com.companyname.muquirana-Signed.apk.idsig
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\build.props
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\adb.props
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\Muquirana.csproj.AssemblyReference.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\mauiimage.inputs
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\mauifont.inputs
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\mauisplash.inputs
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\sp\drawable-v31\maui_splash_image.xml
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\sp\drawable\maui_splash_image.xml
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\sp\values\maui_colors.xml
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\mauisplash.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\mauifont.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\f\icon-works.regular.ttf
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\f\OpenSans-Regular.ttf
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\f\OpenSans-Semibold.ttf
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\f\SourceCodePro-VariableFont_wght.ttf
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable-hdpi\splash.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable-mdpi\splash.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable-xhdpi\splash.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable-xxhdpi\splash.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable-xxxhdpi\splash.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\bannerm.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\bannerp.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\brancotp.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\calculator.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\calculator2.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\camera.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\divide.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\exclama.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\eye.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\eyedark.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\eyelight.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\gear.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\gear2.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\home.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\home2.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\info.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\info2.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\left.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\left2.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\leftblack.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\maskgroup.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\maskgroup1.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\maskgroup1black.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\maskgroup2.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\maskgroupblack.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\minus.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\multipli.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\multmini.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\photogaler2.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\photogalercolorida.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\photogalery.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\plus.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\plus2.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\plusblack.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\plusm.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\pluspp.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\post.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\postdark.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\primeirafoto.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\publicalcula.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\recicle.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\recicle2.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\reciclenew.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\reciclered.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\register.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\revista.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\sleep.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\sleepdark.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\sleeplight.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\todolist.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\drawable\todolist2.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-hdpi\appicon.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-hdpi\appicon_background.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-hdpi\appicon_foreground.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-mdpi\appicon.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-mdpi\appicon_background.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-mdpi\appicon_foreground.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-xhdpi\appicon.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-xhdpi\appicon_background.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-xhdpi\appicon_foreground.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-xxhdpi\appicon.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-xxhdpi\appicon_background.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-xxhdpi\appicon_foreground.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-xxxhdpi\appicon.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-xxxhdpi\appicon_background.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\r\mipmap-xxxhdpi\appicon_foreground.png
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\mauiimage.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\libraryprojectimports.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\stamp\_BuildLibraryImportsCache.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\res.flag
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\AFF3AF29D3853865-files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resizetizer\A1547527B6BD22BA-files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\92\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\93\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\94\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\97\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\98\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\99\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\100\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\101\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\103\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\104\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\105\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\106\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\107\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\111\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\112\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\114\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\115\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\118\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\119\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\121\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\123\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\124\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\125\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\126\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\127\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\128\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\129\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\130\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\131\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\133\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\134\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\135\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\136\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\137\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\138\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\139\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\140\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\141\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\142\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\143\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\144\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\149\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\151\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\155\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\156\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\157\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\158\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\lp\159\jl\files.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\R.txt
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\R.cs.flag
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\Muquirana.GeneratedMSBuildEditorConfig.editorconfig
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\Muquirana.AssemblyInfoInputs.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\Muquirana.AssemblyInfo.cs
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\Muquirana.csproj.CoreCompileInputs.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\XamlC.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\Muquirana.dll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\Muquirana.pdb
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\Muquirana.genruntimeconfig.cache
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\Muquirana.runtimeconfig.json.bin
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\bin\com.companyname.muquirana.apk
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\bin\base.zip
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\bin\com.companyname.muquirana.aab
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\bin\com.companyname.muquirana.apks
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\res\values\colors.xml
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\uploadflags.txt
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\resolvedassemblies.hash
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\typemaps.armeabi-v7a.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\typemaps.arm64-v8a.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\typemaps.x86.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\typemaps.x86_64.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\AndroidManifest.xml
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\AndroidManifest.xml
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\__environment__.txt
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\MonoRuntimeProvider.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\assets\machine.config
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\bin\mono.android.jar
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\static.flag
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\buildid.txt
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\environment.armeabi-v7a.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\environment.arm64-v8a.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\environment.x86.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\environment.x86_64.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\activity\ktx\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\activity\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\annotation\experimental\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\appcompat\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\appcompat\resources\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\browser\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\cardview\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\constraintlayout\widget\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\coordinatorlayout\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\core\ktx\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\core\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\drawerlayout\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\emoji2\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\emoji2\viewsintegration\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\fragment\ktx\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\fragment\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\lifecycle\ktx\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\lifecycle\livedata\core\ktx\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\lifecycle\livedata\core\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\lifecycle\livedata\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\lifecycle\process\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\lifecycle\runtime\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\lifecycle\viewmodel\ktx\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\lifecycle\viewmodel\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\lifecycle\viewmodel\savedstate\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\localbroadcastmanager\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\media\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\navigation\common\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\navigation\fragment\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\navigation\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\navigation\ui\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\recyclerview\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\savedstate\ktx\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\savedstate\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\slidingpanelayout\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\startup\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\swiperefreshlayout\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\tracing\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\transition\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\viewpager2\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\androidx\window\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\com\bumptech\glide\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\com\google\android\material\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\com\microsoft\maui\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640a8d9a12ddbf2cf2\DeviceDisplayImplementation_Listener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640a8d9a12ddbf2cf2\EnergySaverBroadcastReceiver.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ContainerView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\CustomFrameLayout.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\RecyclerViewContainer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ScrollLayoutManager.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellContentFragment.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutLayout.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter_ShellLinearLayout.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutTemplatedContentRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFragmentContainer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFragmentStateAdapter.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellItemRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellItemRendererBase.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellPageContainer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSearchView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter_CustomFilter.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter_ObjectWrapper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSearchView_ClipDrawableWrapper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSectionRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSectionRenderer_ViewPagerPageChanged.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellToolbarTracker.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64159f3caeb1269279\MauiDrawingView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64159f3caeb1269279\MauiPopup.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64159f3caeb1269279\MauiSemanticOrderView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\ColorChangeRevealDrawable.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\ControlsAccessibilityDelegate.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\DragAndDropGestureHandler.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\DragAndDropGestureHandler_CustomLocalStateData.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\FormattedStringExtensions_FontSpan.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\FormattedStringExtensions_LetterSpacingSpan.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\FormattedStringExtensions_LineHeightSpan.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\FragmentContainer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GenericAnimatorListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GenericGlobalLayoutListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GenericGlobalLayoutListenerImproved.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GenericMenuClickListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GradientStrokeDrawable.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GradientStrokeDrawable_GradientShaderFactory.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\InnerGestureListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\InnerScaleListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\MauiViewPager.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\ModalNavigationManager_ModalContainer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\ModalNavigationManager_ModalContainer_ModalFragment.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\MultiPageFragmentStateAdapter_1.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\PointerGestureHandler.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\TapAndPanGestureDetector.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64338477404e88479c\ToolbarExtensions_ToolbarTitleIconImageView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc643f2b18b2570eaa5a\PlatformGraphicsView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\AccessibilityDelegateCompatWrapper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\BorderDrawable.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\ContainerView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\ContentViewGroup.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\LayoutViewGroup.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\LocalizedDigitsKeyListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiAccessibilityDelegateCompat.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiAppCompatEditText.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiBoxView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiDatePicker.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiHorizontalScrollView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiMaterialButton.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPageControl.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPageControl_TEditClickListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPicker.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPickerBase.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiScrollView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiSearchView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiShapeView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiStepper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiSwipeRefreshLayout.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiSwipeView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiTextView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiTimePicker.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiWebChromeClient.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiWebView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiWebViewClient.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\NavigationRootManager_ElementBasedFragment.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\NavigationViewFragment.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\PlatformTouchGraphicsView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\ScopedFragment.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\StackNavigationManager_Callbacks.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\StackNavigationManager_StackContext.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\StackNavigationManager_StackLayoutInflater.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\StepperHandlerHolder.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\StepperHandlerManager_StepperListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\SwipeViewPager.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\ViewFragment.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\WebViewExtensions_JavascriptResult.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\WrapperView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\CarouselSpacingItemDecoration.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\CarouselViewAdapter_2.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\CarouselViewOnScrollListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\CarouselViewwOnGlobalLayoutListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\CenterSnapHelper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\DataChangeObserver.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\EdgeSnapHelper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\EmptyViewAdapter.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\EndSingleSnapHelper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\EndSnapHelper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\GridLayoutSpanSizeLookup.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\GroupableItemsViewAdapter_2.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\ItemContentView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\ItemsViewAdapter_2.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\MauiCarouselRecyclerView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\MauiRecyclerView_3.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\NongreedySnapHelper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\NongreedySnapHelper_InitialScrollListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\PositionalSmoothScroller.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\RecyclerViewScrollListener_2.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\ReorderableItemsViewAdapter_2.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\ScrollHelper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SelectableItemsViewAdapter_2.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SelectableViewHolder.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SimpleItemTouchHelperCallback.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SimpleViewHolder.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SingleSnapHelper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SizedItemContentView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SpacingItemDecoration.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\StartSingleSnapHelper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\StartSnapHelper.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\StructuredItemsViewAdapter_2.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\TemplatedItemViewHolder.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\TextViewHolder.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64723b9b617311e508\MainActivity.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64723b9b617311e508\MainApplication.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\NativeViewWrapperRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\PlatformRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\Platform_DefaultRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\ViewRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\ViewRenderer_2.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\VisualElementRenderer_1.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\VisualElementTracker_AttachTracker.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\ImageLoaderCallback.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\ImageLoaderCallbackBase_1.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\ImageLoaderResultCallback.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\MauiAppCompatActivity.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\MauiApplication.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\MauiApplication_ActivityLifecycleCallbacks.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc648fc34c62be8fbbff\Snackbar_SnackbarCallback.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc649ff77a65592e7d55\TabbedPageManager_Listeners.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc649ff77a65592e7d55\TabbedPageManager_TempView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64b5e713d400f589b7\LinearGradientShaderFactory.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64b5e713d400f589b7\MauiDrawable.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64b5e713d400f589b7\RadialGradientShaderFactory.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64ba438d8f48cf7e75\ActivityLifecycleContextListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64ba438d8f48cf7e75\IntermediateActivity.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\BaseCellView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\CellAdapter.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\CellRenderer_RendererHolder.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ConditionalFocusLayout.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\EntryCellEditText.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\EntryCellView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\FrameRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\GroupedListViewAdapter.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewAdapter.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewRenderer_Container.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewRenderer_ListViewScrollDetector.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewRenderer_ListViewSwipeRefreshLayoutListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\SwitchCellView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\TableViewModelRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\TableViewRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\TextCellRenderer_TextCellView.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ViewRenderer.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ViewRenderer_2.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\VisualElementRenderer_1.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64f728827fec74e9c3\Toolbar_Container.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\ButtonHandler_ButtonClickListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\ButtonHandler_ButtonTouchListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\SearchBarHandler_FocusChangeListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\SliderHandler_SeekBarChangeListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\SwitchHandler_CheckedChangeListener.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\ToolbarHandler_ProcessBackClick.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\android\app\ApplicationRegistration.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\com\google\android\material\appbar\AppBarLayout_LiftOnScrollListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\com\google\android\material\checkbox\MaterialCheckBox_OnCheckedStateChangedListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\com\google\android\material\checkbox\MaterialCheckBox_OnErrorChangedListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\mono\MonoPackageManager_Resources.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\bin\packaged_resources
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\src\com\companyname\muquirana\R.java
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\compressed_assemblies.armeabi-v7a.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\compressed_assemblies.arm64-v8a.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\compressed_assemblies.x86.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\compressed_assemblies.x86_64.ll
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\typemaps.armeabi-v7a.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\typemaps.arm64-v8a.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\typemaps.x86.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\typemaps.x86_64.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\environment.armeabi-v7a.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\environment.arm64-v8a.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\environment.x86.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\environment.x86_64.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\compressed_assemblies.armeabi-v7a.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\compressed_assemblies.arm64-v8a.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\compressed_assemblies.x86.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\compressed_assemblies.x86_64.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\jni_remap.armeabi-v7a.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\jni_remap.arm64-v8a.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\jni_remap.x86.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\jni_remap.x86_64.o
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\app_shared_libraries\x86\libxamarin-app.so
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\app_shared_libraries\x86_64\libxamarin-app.so
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\bin\classes.dex
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\android\bin\classes2.dex
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\stamp\_CleanIntermediateIfNeeded.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\stamp\_CompileJava.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\stamp\_CompileToDalvik.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\stamp\_ConvertCustomView.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\stamp\_ConvertResourcesCases.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\stamp\_GenerateJavaStubs.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
+C:\AULAS\New folder\Muquirana\obj\Release\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\AULAS\Mukirana-pt-br\bin\Release\net7.0-android\Muquirana.runtimeconfig.json
+C:\AULAS\Mukirana-pt-br\bin\Release\net7.0-android\Muquirana.dll
+C:\AULAS\Mukirana-pt-br\bin\Release\net7.0-android\Muquirana.pdb
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\build.props
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\adb.props
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\Muquirana.csproj.AssemblyReference.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\mauiimage.inputs
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\mauifont.inputs
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\mauisplash.inputs
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\sp\drawable-v31\maui_splash_image.xml
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\sp\drawable\maui_splash_image.xml
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\sp\values\maui_colors.xml
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\mauisplash.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\mauifont.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\f\icon-works.regular.ttf
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\f\OpenSans-Regular.ttf
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\f\OpenSans-Semibold.ttf
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\f\SourceCodePro-VariableFont_wght.ttf
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable-hdpi\splash.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable-mdpi\splash.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable-xhdpi\splash.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable-xxhdpi\splash.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable-xxxhdpi\splash.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\bannerm.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\bannerp.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\brancotp.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\calculator.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\calculator2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\camera.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\divide.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\exclama.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\eye.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\eyedark.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\eyelight.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\gear.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\gear2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\home.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\home2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\info.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\info2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\left.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\left2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\leftblack.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\maskgroup.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\maskgroup1.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\maskgroup1black.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\maskgroup2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\maskgroupblack.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\minus.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\multipli.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\multmini.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\photogaler2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\photogalercolorida.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\photogalery.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\plus.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\plus2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\plusblack.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\plusm.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\pluspp.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\post.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\postdark.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\primeirafoto.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\publicalcula.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\recicle.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\recicle2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\reciclenew.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\reciclered.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\register.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\revista.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\sleep.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\sleepdark.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\sleeplight.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\todolist.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\todolist2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-hdpi\appicon.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-hdpi\appicon_background.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-hdpi\appicon_foreground.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-mdpi\appicon.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-mdpi\appicon_background.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-mdpi\appicon_foreground.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-xhdpi\appicon.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-xhdpi\appicon_background.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-xhdpi\appicon_foreground.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-xxhdpi\appicon.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-xxhdpi\appicon_background.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-xxhdpi\appicon_foreground.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-xxxhdpi\appicon.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-xxxhdpi\appicon_background.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\mipmap-xxxhdpi\appicon_foreground.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\mauiimage.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\libraryprojectimports.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\stamp\_BuildLibraryImportsCache.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\res.flag
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\AFF3AF29D3853865-files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\A1547527B6BD22BA-files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\112\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\175\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\176\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\177\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\119\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\121\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\123\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\124\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\125\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\126\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\127\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\128\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\134\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\135\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\138\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\139\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\141\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\149\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\151\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\155\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\184\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\185\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\188\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\193\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\R.txt
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\R.cs.flag
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\Muquirana.GeneratedMSBuildEditorConfig.editorconfig
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\Muquirana.AssemblyInfoInputs.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\Muquirana.AssemblyInfo.cs
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\Muquirana.csproj.CoreCompileInputs.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\XamlC.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\Muquirana.dll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\Muquirana.pdb
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\Muquirana.genruntimeconfig.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\Muquirana.runtimeconfig.json.bin
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\bin\base.zip
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\res\values\colors.xml
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\uploadflags.txt
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resolvedassemblies.hash
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\typemaps.armeabi-v7a.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\typemaps.arm64-v8a.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\typemaps.x86.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\typemaps.x86_64.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\AndroidManifest.xml
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\AndroidManifest.xml
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\__environment__.txt
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\MonoRuntimeProvider.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\assets\machine.config
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\bin\mono.android.jar
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\static.flag
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\buildid.txt
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\environment.armeabi-v7a.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\environment.arm64-v8a.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\environment.x86.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\environment.x86_64.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\activity\ktx\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\activity\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\annotation\experimental\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\appcompat\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\appcompat\resources\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\browser\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\cardview\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\constraintlayout\widget\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\coordinatorlayout\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\core\ktx\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\core\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\drawerlayout\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\emoji2\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\emoji2\viewsintegration\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\fragment\ktx\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\fragment\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\lifecycle\ktx\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\lifecycle\livedata\core\ktx\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\lifecycle\livedata\core\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\lifecycle\livedata\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\lifecycle\process\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\lifecycle\runtime\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\lifecycle\service\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\lifecycle\viewmodel\ktx\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\lifecycle\viewmodel\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\lifecycle\viewmodel\savedstate\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\localbroadcastmanager\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\media\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\navigation\common\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\navigation\fragment\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\navigation\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\navigation\ui\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\recyclerview\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\room\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\savedstate\ktx\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\savedstate\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\slidingpanelayout\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\sqlite\db\framework\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\sqlite\db\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\startup\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\swiperefreshlayout\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\tracing\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\transition\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\viewpager2\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\window\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\androidx\work\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\com\bumptech\glide\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\com\companyname\muquirana\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\com\google\android\gms\ads\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\com\google\android\gms\common\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\com\google\android\material\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\com\microsoft\maui\R.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640a8d9a12ddbf2cf2\DeviceDisplayImplementation_Listener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640a8d9a12ddbf2cf2\EnergySaverBroadcastReceiver.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ContainerView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\CustomFrameLayout.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\RecyclerViewContainer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ScrollLayoutManager.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellContentFragment.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutLayout.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutRecyclerAdapter_ShellLinearLayout.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutTemplatedContentRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFragmentContainer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellFragmentStateAdapter.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellItemRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellItemRendererBase.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellPageContainer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSearchView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter_CustomFilter.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSearchViewAdapter_ObjectWrapper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSearchView_ClipDrawableWrapper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSectionRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellSectionRenderer_ViewPagerPageChanged.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellToolbarTracker.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc640ec207abc449b2ca\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64159f3caeb1269279\MauiDrawingView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64159f3caeb1269279\MauiPopup.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64159f3caeb1269279\MauiSemanticOrderView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6424817b6e85a95e78\MauiMTAdmob.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\ColorChangeRevealDrawable.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\ControlsAccessibilityDelegate.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\DragAndDropGestureHandler.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\DragAndDropGestureHandler_CustomLocalStateData.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\FormattedStringExtensions_FontSpan.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\FormattedStringExtensions_LetterSpacingSpan.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\FormattedStringExtensions_LineHeightSpan.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\FragmentContainer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GenericAnimatorListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GenericGlobalLayoutListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GenericGlobalLayoutListenerImproved.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GenericMenuClickListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GradientStrokeDrawable.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\GradientStrokeDrawable_GradientShaderFactory.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\InnerGestureListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\InnerScaleListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\MauiViewPager.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\ModalNavigationManager_ModalContainer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\ModalNavigationManager_ModalContainer_ModalFragment.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\MultiPageFragmentStateAdapter_1.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\PointerGestureHandler.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\TapAndPanGestureDetector.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64338477404e88479c\ToolbarExtensions_ToolbarTitleIconImageView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc643f2b18b2570eaa5a\PlatformGraphicsView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\AccessibilityDelegateCompatWrapper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\BorderDrawable.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\ContainerView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\ContentViewGroup.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\LayoutViewGroup.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\LocalizedDigitsKeyListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiAccessibilityDelegateCompat.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiAppCompatEditText.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiBoxView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiDatePicker.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiHorizontalScrollView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiMaterialButton.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPageControl.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPageControl_TEditClickListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPicker.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiPickerBase.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiScrollView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiSearchView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiShapeView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiStepper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiSwipeRefreshLayout.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiSwipeView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiTextView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiTimePicker.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiWebChromeClient.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiWebView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\MauiWebViewClient.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\NavigationRootManager_ElementBasedFragment.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\NavigationViewFragment.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\PlatformTouchGraphicsView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\ScopedFragment.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\StackNavigationManager_Callbacks.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\StackNavigationManager_StackContext.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\StackNavigationManager_StackLayoutInflater.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\StepperHandlerHolder.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\StepperHandlerManager_StepperListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\SwipeViewPager.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\ViewFragment.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\WebViewExtensions_JavascriptResult.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6452ffdc5b34af3a0f\WrapperView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\CarouselSpacingItemDecoration.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\CarouselViewAdapter_2.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\CarouselViewOnScrollListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\CarouselViewwOnGlobalLayoutListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\CenterSnapHelper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\DataChangeObserver.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\EdgeSnapHelper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\EmptyViewAdapter.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\EndSingleSnapHelper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\EndSnapHelper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\GridLayoutSpanSizeLookup.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\GroupableItemsViewAdapter_2.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\ItemContentView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\ItemsViewAdapter_2.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\MauiCarouselRecyclerView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\MauiRecyclerView_3.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\NongreedySnapHelper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\NongreedySnapHelper_InitialScrollListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\PositionalSmoothScroller.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\RecyclerViewScrollListener_2.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\ReorderableItemsViewAdapter_2.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\ScrollHelper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SelectableItemsViewAdapter_2.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SelectableViewHolder.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SimpleItemTouchHelperCallback.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SimpleViewHolder.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SingleSnapHelper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SizedItemContentView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\SpacingItemDecoration.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\StartSingleSnapHelper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\StartSnapHelper.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\StructuredItemsViewAdapter_2.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\TemplatedItemViewHolder.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc645d80431ce5f73f11\TextViewHolder.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64723b9b617311e508\MainActivity.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64723b9b617311e508\MainApplication.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\NativeViewWrapperRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\PlatformRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\Platform_DefaultRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\ViewRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\ViewRenderer_2.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\VisualElementRenderer_1.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6477f0d89a9cfd64b1\VisualElementTracker_AttachTracker.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\ImageLoaderCallback.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\ImageLoaderCallbackBase_1.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\ImageLoaderResultCallback.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\MauiAppCompatActivity.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\MauiApplication.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc6488302ad6e9e4df1a\MauiApplication_ActivityLifecycleCallbacks.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc648fc34c62be8fbbff\Snackbar_SnackbarCallback.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc649ff77a65592e7d55\TabbedPageManager_Listeners.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc649ff77a65592e7d55\TabbedPageManager_TempView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64b5e713d400f589b7\LinearGradientShaderFactory.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64b5e713d400f589b7\MauiDrawable.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64b5e713d400f589b7\RadialGradientShaderFactory.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64ba438d8f48cf7e75\ActivityLifecycleContextListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64ba438d8f48cf7e75\IntermediateActivity.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64d42a9c94284d6219\InterstitialService.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64d42a9c94284d6219\MyAdBannerListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64d42a9c94284d6219\MyFullScreenContentCallback.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64d42a9c94284d6219\RewardInterstitialService.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64d42a9c94284d6219\RewardService.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\BaseCellView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\CellAdapter.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\CellRenderer_RendererHolder.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ConditionalFocusLayout.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\EntryCellEditText.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\EntryCellView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\FrameRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\GroupedListViewAdapter.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewAdapter.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewRenderer_Container.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewRenderer_ListViewScrollDetector.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewRenderer_ListViewSwipeRefreshLayoutListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\SwitchCellView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\TableViewModelRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\TableViewRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\TextCellRenderer_TextCellView.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ViewRenderer.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\ViewRenderer_2.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64e1fb321c08285b90\VisualElementRenderer_1.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64f728827fec74e9c3\Toolbar_Container.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64f98ae9be26790314\InterstitialAd.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64f98ae9be26790314\RewardedAd.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64f98ae9be26790314\RewardedInterstitialAd.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\ButtonHandler_ButtonClickListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\ButtonHandler_ButtonTouchListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\SearchBarHandler_FocusChangeListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\SliderHandler_SeekBarChangeListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\SwitchHandler_CheckedChangeListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64fcf28c0e24b4cc31\ToolbarHandler_ProcessBackClick.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\activity\contextaware\OnContextAvailableListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\core\view\WindowInsetsControllerCompat_OnControllableInsetsChangedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\fragment\app\FragmentOnAttachListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\navigation\NavController_OnDestinationChangedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\android\app\ApplicationRegistration.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\gms\ads\OnPaidEventListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\gms\ads\rewarded\OnAdMetadataChangedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\material\appbar\AppBarLayout_LiftOnScrollListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\material\button\MaterialButton_OnCheckedChangeListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\material\checkbox\MaterialCheckBox_OnCheckedStateChangedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\material\checkbox\MaterialCheckBox_OnErrorChangedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemReselectedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\material\navigation\NavigationBarView_OnItemSelectedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\mono\MonoPackageManager_Resources.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\bin\packaged_resources
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\compressed_assemblies.armeabi-v7a.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\compressed_assemblies.arm64-v8a.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\compressed_assemblies.x86.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\compressed_assemblies.x86_64.ll
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\typemaps.armeabi-v7a.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\typemaps.arm64-v8a.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\typemaps.x86.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\typemaps.x86_64.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\environment.armeabi-v7a.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\environment.arm64-v8a.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\environment.x86.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\environment.x86_64.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\compressed_assemblies.armeabi-v7a.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\compressed_assemblies.arm64-v8a.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\compressed_assemblies.x86.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\compressed_assemblies.x86_64.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\jni_remap.armeabi-v7a.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\jni_remap.arm64-v8a.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\jni_remap.x86.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\jni_remap.x86_64.o
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\app_shared_libraries\x86\libxamarin-app.so
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\app_shared_libraries\x86_64\libxamarin-app.so
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\bin\classes.dex
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\bin\classes2.dex
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\stamp\_CleanIntermediateIfNeeded.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\stamp\_CompileJava.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\stamp\_CompileToDalvik.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\stamp\_ConvertCustomView.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\stamp\_ConvertResourcesCases.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\stamp\_GenerateJavaStubs.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\f\definitiveIcon.ttf
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\f\MaterialIcons-Regular.ttf
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\f\MaterialIconsOutlined-Regular.otf
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\f\Type Icons.ttf
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\113\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\116\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\117\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\122\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\132\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\147\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\153\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\154\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\174\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\revista2.png
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\crc64d6358e7bf64fbac4\SpeechToTextImplementation_SpeechRecognitionListener.java
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\grega.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\106\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\107\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\108\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\111\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\114\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\118\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\120\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\143\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\144\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\145\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\146\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\148\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\150\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\156\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\157\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\158\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\159\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\160\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\161\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\162\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\163\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\168\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\170\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\lp\178\jl\files.cache
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\adicionador.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\agastar.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\calcudelete.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\esconder.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\excluir.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\excluirproduto.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\helpcalcu.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\listadeprodutos.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\listaslist.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\listdelete.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\mostrar.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\multdivi.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\myapp.keystore
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\novalista.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\novascalcuu.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\novo.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\novoproduto.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\novoprodutobotao.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\paginanova.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\registros.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\restante.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\soma.jpg
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\resizetizer\r\drawable\somaprodutos.jpg
+C:\AULAS\Mukirana-pt-br\bin\Release\net7.0-android\com.companyname.Mukirana.apk
+C:\AULAS\Mukirana-pt-br\bin\Release\net7.0-android\com.companyname.Mukirana.aab
+C:\AULAS\Mukirana-pt-br\bin\Release\net7.0-android\com.companyname.Mukirana-Signed.aab
+C:\AULAS\Mukirana-pt-br\bin\Release\net7.0-android\com.companyname.Mukirana-Signed.apk
+C:\AULAS\Mukirana-pt-br\bin\Release\net7.0-android\com.companyname.Mukirana-Signed.apk.idsig
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\bin\com.companyname.Mukirana.apk
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\bin\com.companyname.Mukirana.aab
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\bin\com.companyname.Mukirana.apks
+C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-android\android\src\com\companyname\mukirana\R.java

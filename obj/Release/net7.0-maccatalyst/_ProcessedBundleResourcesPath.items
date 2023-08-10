@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\dotnet_bot.png" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\dotnet_bot@2x.png" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\dotnet_bot@3x.png" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\adicionador.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\agastar.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\calcudelete.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\divide.png" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\esconder.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\exclama.png" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\excluir.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\excluirproduto.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\grega.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\helpcalcu.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\listadeprodutos.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\listaslist.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\listdelete.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\minus.png" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\mostrar.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\multdivi.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\multipli.png" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\multmini.png" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\myapp.keystore" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\novalista.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\novascalcuu.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\novo.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\novoproduto.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\novoprodutobotao.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\paginanova.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\reciclered.png" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\register.png" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\registros.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\restante.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\soma.jpg" />
+    <BundleResource Include="C:\AULAS\Mukirana-pt-br\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\somaprodutos.jpg" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\definitiveIcon.ttf" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\icon-works.regular.ttf" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\MaterialIcons-Regular.ttf" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\MaterialIconsOutlined-Regular.otf" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\OpenSans-Regular.ttf" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\OpenSans-Semibold.ttf" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\SourceCodePro-VariableFont_wght.ttf" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\Type Icons.ttf" />
+  </ItemGroup>
+</Project>

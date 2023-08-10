@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Muquirana
+build_property.ProjectDir = C:\AULAS\Mukirana-pt-br\
+
+[C:/AULAS/Mukirana-pt-br/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Muquirana.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/AULAS/Mukirana-pt-br/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Muquirana.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/AULAS/Mukirana-pt-br/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Muquirana.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/AULAS/Mukirana-pt-br/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Muquirana.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/AULAS/Mukirana-pt-br/Views/Listas.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Muquirana.Views.Listas.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Listas.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Listas.xaml
+
+[C:/AULAS/Mukirana-pt-br/Views/Popups/ListasAdd.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Muquirana.Views.Popups.ListasAdd.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Popups\ListasAdd.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Popups\ListasAdd.xaml
+
+[C:/AULAS/Mukirana-pt-br/Views/Popups/ListasHelp.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Muquirana.Views.Popups.ListasHelp.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Popups\ListasHelp.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Popups\ListasHelp.xaml
+
+[C:/AULAS/Mukirana-pt-br/Views/Popups/ProductHelp.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Muquirana.Views.Popups.ProductHelp.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Popups\ProductHelp.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Popups\ProductHelp.xaml
+
+[C:/AULAS/Mukirana-pt-br/Views/Popups/ProdutosAdd.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Muquirana.Views.Popups.ProdutosAdd.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Popups\ProdutosAdd.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Popups\ProdutosAdd.xaml
+
+[C:/AULAS/Mukirana-pt-br/Views/Produtos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Muquirana.Views.Produtos.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Produtos.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Produtos.xaml

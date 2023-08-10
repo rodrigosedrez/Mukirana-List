@@ -1,0 +1,699 @@
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.stamp
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.stamp
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.stamp
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedContentPath.items
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.csproj.AssemblyReference.cache
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.GeneratedMSBuildEditorConfig.editorconfig
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.AssemblyInfoInputs.cache
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.AssemblyInfo.cs
+C:\AULAS\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.csproj.CoreCompileInputs.cache
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Muquirana.runtimeconfig.json
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Muquirana.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Muquirana.pdb
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\CommunityToolkit.Maui.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\CommunityToolkit.Maui.Core.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\LiteDB.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.AppContext.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Buffers.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Configuration.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Console.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Core.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.Common.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Tar.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Memory.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Mail.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Ping.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Primitives.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Quic.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Requests.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Security.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Sockets.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebClient.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.ObjectModel.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Uri.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Reader.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Writer.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Claims.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.SecureString.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceProcess.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Json.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Channels.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Thread.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Timer.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.Local.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.ValueTuple.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Windows.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Linq.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\WindowsBase.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\mscorlib.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\netstandard.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\icudt.dat
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\icudt_CJK.dat
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\icudt_EFIGS.dat
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\icudt_no_CJK.dat
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.dylib
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libicudata.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libicui18n.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libicuuc.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libextension-dotnet.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.a
+C:\AULAS\New folder\Muquirana\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.stamp
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.stamp
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.stamp
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedContentPath.items
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.csproj.AssemblyReference.cache
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.GeneratedMSBuildEditorConfig.editorconfig
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.AssemblyInfoInputs.cache
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.AssemblyInfo.cs
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.csproj.CoreCompileInputs.cache
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\XamlC.stamp
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.csproj.CopyComplete
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.dll
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\refint\Muquirana.dll
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.pdb
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.genruntimeconfig.cache
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\ref\Muquirana.dll
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\calculator.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\calculator2.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\gear.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\gear2.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\home.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\home2.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\info.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\info2.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\maskgroup.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\maskgroup2.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\plus.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\plus2.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\todolist.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\todolist2.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\icon-works.regular.ttf
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\left.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\left2.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\recicle.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\recicle2.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\reciclered.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\reciclenew.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\bannerm.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\bannerp.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\maskgroup1.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\plusm.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\primeirafoto.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\revista.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\brancotp.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\camera.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\divide.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\exclama.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\eye.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\eyedark.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\eyelight.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\leftblack.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\maskgroup1black.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\maskgroupblack.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\minus.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\multipli.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\multmini.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\photogaler2.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\photogalercolorida.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\photogalery.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\plusblack.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\pluspp.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\post.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\postdark.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\publicalcula.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\register.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\sleep.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\sleepdark.png
+C:\AULAS\New folder\Muquirana\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\sleeplight.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.inputs
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.inputs
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.inputs
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\mauisplash.stamp
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\bannerm.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\bannerp.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\brancotp.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\calculator.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\calculator2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\camera.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\divide.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\exclama.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\eye.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\eyedark.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\eyelight.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\gear.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\gear2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\home.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\home2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\info.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\info2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\left.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\left2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\leftblack.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\maskgroup.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\maskgroup1.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\maskgroup1black.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\maskgroup2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\maskgroupblack.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\minus.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\multipli.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\multmini.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\photogaler2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\photogalercolorida.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\photogalery.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\plus.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\plus2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\plusblack.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\plusm.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\pluspp.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\post.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\postdark.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\primeirafoto.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\publicalcula.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\recicle.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\recicle2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\reciclenew.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\reciclered.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\register.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\revista.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\revista2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\sleep.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\sleepdark.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\sleeplight.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\todolist.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\todolist2.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@3x.png
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\mauiimage.stamp
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\mauifont.stamp
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\definitiveIcon.ttf
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\icon-works.regular.ttf
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MaterialIcons-Regular.ttf
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\MaterialIconsOutlined-Regular.otf
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\SourceCodePro-VariableFont_wght.ttf
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\f\Type Icons.ttf
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\_ProcessedContentPath.items
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.csproj.AssemblyReference.cache
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.GeneratedMSBuildEditorConfig.editorconfig
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.AssemblyInfoInputs.cache
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.AssemblyInfo.cs
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.csproj.CoreCompileInputs.cache
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.dll
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\refint\Muquirana.dll
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.pdb
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Muquirana.runtimeconfig.json
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Muquirana.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Muquirana.pdb
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\CommunityToolkit.Maui.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\CommunityToolkit.Maui.Core.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\LiteDB.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Plugin.MauiMtAdmob.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Firebase.Core.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Google.MobileAds.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.AppContext.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Buffers.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Collections.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.ComponentModel.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Configuration.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Console.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Core.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.Common.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Data.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Drawing.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Formats.Tar.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Globalization.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Compression.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.Pipes.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.IO.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Linq.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Memory.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Http.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Mail.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Ping.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Primitives.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Quic.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Requests.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Security.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.Sockets.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebClient.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Net.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Numerics.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.ObjectModel.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Uri.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.Xml.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Reflection.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Reader.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Resources.Writer.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Runtime.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Claims.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.Principal.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.SecureString.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Security.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.ServiceProcess.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encoding.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.Json.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Channels.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Thread.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.Timer.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Threading.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.Local.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Transactions.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.ValueTuple.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Web.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Windows.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Linq.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XPath.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Xml.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\WindowsBase.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\mscorlib.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\netstandard.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\icudt.dat
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\icudt_CJK.dat
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\icudt_EFIGS.dat
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\icudt_no_CJK.dat
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Native.dylib
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libicudata.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libicui18n.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libicuuc.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libextension-dotnet.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.a
+C:\AULAS\Mukirana-pt-br\bin\Debug\net7.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\XamlC.stamp
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.csproj.CopyComplete
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\Muquirana.genruntimeconfig.cache
+C:\AULAS\Mukirana-pt-br\obj\Debug\net7.0-ios\iossimulator-x64\ref\Muquirana.dll

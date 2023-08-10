@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>UIAppFonts</key>
+  <array>
+	<string>definitiveIcon.ttf</string>
+	<string>icon-works.regular.ttf</string>
+	<string>MaterialIcons-Regular.ttf</string>
+	<string>MaterialIconsOutlined-Regular.otf</string>
+	<string>OpenSans-Regular.ttf</string>
+	<string>OpenSans-Semibold.ttf</string>
+	<string>SourceCodePro-VariableFont_wght.ttf</string>
+	<string>Type Icons.ttf</string>
+  </array>
+  <key>UILaunchStoryboardName</key>
+  <string>MauiSplash</string>
+
+</dict>
+</plist>

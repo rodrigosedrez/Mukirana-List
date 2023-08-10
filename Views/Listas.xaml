@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Plugin.MauiMTAdmob.Controls;assembly=Plugin.MauiMTAdmob"
+             xmlns:android="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.AndroidSpecific;assembly=Microsoft.Maui.Controls"
+             x:Class="Muquirana.Views.Listas"
+             Shell.BackgroundColor="{StaticResource Gray400}"
+             Shell.NavBarIsVisible="False"
+             Shell.TabBarIsVisible="False"
+             xmlns:views="clr-namespace:Muquirana.Views"
+             Title="LISTAS">
+
+    <Grid RowDefinitions="50,80,30,*,auto" HorizontalOptions="Center">
+
+        <controls:MTAdView  BackgroundColor="Transparent"
+                           VerticalOptions="Center"
+                           AdSize="AnchoredAdaptive"
+                           IsVisible="true"
+                           Grid.Row="0"
+                           />
+        <HorizontalStackLayout Grid.Row="1" HorizontalOptions="Center">
+            <Image Source="mukirana2.png" HeightRequest="40" BackgroundColor="Transparent" />
+            <Label Text=" Mukirana List" FontSize="25"  VerticalOptions="Center" TextColor="White"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout HorizontalOptions="Center" Grid.Row="2">
+            <Button Text="+"
+                    Clicked="Button_Clicked_Nav_Add_New"
+                    FontSize="53"
+                    Padding="-15"
+                    FontAttributes="Bold"
+                    WidthRequest="115"
+                    HeightRequest="50"
+                    CornerRadius="1"
+                    BackgroundColor="ForestGreen"
+                    BorderWidth="0">
+
+            </Button>
+            <ImageButton
+                Padding="-10"
+                WidthRequest="115"
+                Source="mukirana2.png"
+
+                HeightRequest="50"
+                CornerRadius="1"
+                BackgroundColor="{StaticResource Blue100Accent}"
+                BorderWidth="0">
+            </ImageButton>
+            <Button
+                Padding="-10"
+
+                WidthRequest="115"
+                HeightRequest="50"
+                CornerRadius="1"
+                VerticalOptions="Center"
+                Clicked="Button_Clicked_Help"
+                BackgroundColor="{StaticResource Yellow200Accent}"
+                BorderWidth="0">
+                <Button.ImageSource>
+                    <FontImageSource Glyph="contact_support" Size="35" FontFamily="definetiveIcon"
+                                     Color="{StaticResource White}"/>
+                </Button.ImageSource>
+
+            </Button>
+        </HorizontalStackLayout>
+
+
+        <ScrollView x:Name="Corpo"  Grid.Row="3">
+            <VerticalStackLayout>
+
+                <Border
+                    Grid.Row="1"
+                    x:Name="GridListas"
+                    IsVisible="true"
+                    Padding="20"
+                    StrokeShape="RoundRectangle 20"
+                    StrokeThickness="0"
+                    HorizontalOptions="Center"
+                    BackgroundColor="Transparent">
+
+                    <Grid   BackgroundColor="Transparent" HorizontalOptions="Center">
+                        <CollectionView x:Name="collectionViewListas">
+                            <CollectionView.ItemTemplate>
+                                <DataTemplate>
+                                    <SwipeView Threshold="60">
+                                        <SwipeView.RightItems>
+                                            <SwipeItems>
+                                                <SwipeItem IconImageSource="reciclered.png"
+                                                           Invoked="SwipeItem_Invoked"
+                                                           CommandParameter="{Binding .}"
+                                                           BackgroundColor="Transparent"/>
+                                            </SwipeItems>
+                                        </SwipeView.RightItems>
+
+                                        <Grid  Margin="5" ColumnDefinitions="20,270,20" HorizontalOptions="Center">
+                                            <Grid.GestureRecognizers>
+                                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"
+                                                                      CommandParameter="{Binding .}" />
+                                            </Grid.GestureRecognizers>
+                                            <CheckBox
+                                                x:Name="checkProduto"
+                                                HorizontalOptions="Center"
+                                                IsChecked="{Binding Ccheck}"
+                                                IsVisible="{Binding Visible}"
+                                                WidthRequest="35"
+                                                HeightRequest="35" />
+                                            <!--lists border-->
+                                            <Border
+                                                Grid.Column="1"
+                                                StrokeShape="RoundRectangle 15"
+                                                HeightRequest="50"
+                                                WidthRequest="250"
+                                                StrokeThickness="0">
+                                                <Border.Background>
+                                                    <LinearGradientBrush StartPoint="0,0" EndPoint="1, 1">
+                                                        <GradientStop Offset="0.3" Color="{AppThemeBinding Light={StaticResource Gray200}, Dark={StaticResource White}}" />
+                                                        <GradientStop Offset="1.0" Color="{AppThemeBinding Light={StaticResource Gray500}, Dark={StaticResource Botaoescuro}}" />
+                                                    </LinearGradientBrush>
+                                                </Border.Background>
+                                                <Grid RowDefinitions="52,18" >
+                                                    <Label Text="{Binding ListName}"
+                                                           HorizontalOptions="Center"
+                                                           FontAttributes="Bold"
+                                                           Margin="0,10"
+                                                           VerticalTextAlignment="End"
+                                                           Grid.Row="0"
+                                                           TextColor="{AppThemeBinding Light={StaticResource Gray900}, Dark={StaticResource Black}}"
+                                                           FontSize="22"
+                                                           />
+                                                    <Label FontSize="10"
+                                                           FontAttributes="Bold"
+                                                           HorizontalOptions="End"
+                                                           Margin="15,-18"
+                                                           Text="{Binding DateTime, StringFormat='{}{0:dd.MM.yy}'}"
+                                                           Grid.Row="1"
+                                                           TextColor="{AppThemeBinding Light={StaticResource BrancoCalcu}, Dark={StaticResource Gray600}}"/>
+                                                </Grid>
+                                            </Border>
+                                        </Grid>
+                                    </SwipeView>
+                                </DataTemplate>
+                            </CollectionView.ItemTemplate>
+                        </CollectionView>
+
+                    </Grid>
+                </Border>
+
+
+            </VerticalStackLayout>
+
+        </ScrollView>
+
+
+        <controls:MTAdView  BackgroundColor="Transparent"
+                           HeightRequest="45"
+                           AdSize="AnchoredAdaptive"
+                           IsVisible="true"
+                           Grid.Row="4"
+                           />
+
+    </Grid>
+
+</ContentPage>
+
+<!--asd
+
+
+
+
+
+
+
+f-->

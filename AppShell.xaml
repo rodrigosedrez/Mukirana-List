@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Muquirana.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Muquirana"
+    xmlns:listas="clr-namespace:Muquirana.Views"
+    BackgroundColor="{AppThemeBinding Light={StaticResource Gray100}, Dark={StaticResource Gray950}}"
+
+    FlyoutBehavior="Disabled">
+
+
+
+
+
+    <TabBar x:Name="tabBarMenu">
+
+        <Tab   Icon="{AppThemeBinding Light=home.png, Dark=home2.png}" >
+            <ShellContent
+                Shell.PresentationMode="Modal"
+                Title="Home"
+                x:Name="Home2"
+                ContentTemplate="{DataTemplate listas:Listas}"
+                Route="MainPg"   />
+        </Tab>
+    </TabBar>
+
+
+</Shell>
+

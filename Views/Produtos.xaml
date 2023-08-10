@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Plugin.MauiMTAdmob.Controls;assembly=Plugin.MauiMTAdmob"
+             xmlns:tollkit="clr-namespace:CommunityToolkit.Mvvm.Collections;assembly=CommunityToolkit.Mvvm"
+             x:Class="Muquirana.Views.Produtos"
+             Shell.NavBarIsVisible="True"
+             Shell.TabBarIsVisible="false"
+             BackgroundColor="Transparent"
+             Shell.BackgroundColor="{AppThemeBinding Light={StaticResource Gray600}, Dark={StaticResource Gray950}}"
+             Title="Produtos">
+
+    <Shell.TitleView>
+
+        <Grid HorizontalOptions="Fill" ColumnDefinitions="*,80">
+
+            <Label Text=" "
+                   Margin="10,10"
+                   Grid.Column="0"
+                   FontSize="24"
+                   TextColor="{AppThemeBinding Light={StaticResource Gray100}, Dark={StaticResource White}}"
+                   FontAttributes="Bold"
+                   x:Name="NomeVindo"
+                   HorizontalOptions="Center"
+                   />
+            <Button
+                BackgroundColor="Transparent"
+                BorderWidth="0"
+                Padding="-10"
+                Margin="5,20"
+                HeightRequest="30"
+                HorizontalOptions="End"
+                Grid.Column="1"
+                WidthRequest="30"
+                Clicked="Button_Clicked_Help"
+                >
+                <Button.ImageSource>
+                    <FontImageSource Glyph="contact_support" Size="20" FontFamily="definetiveIcon"  x:Name="shareGlyph"
+                                     Color="{StaticResource Yellow200Accent}"/>
+                </Button.ImageSource>
+            </Button>
+        </Grid>
+    </Shell.TitleView>
+
+    <Grid RowDefinitions="50,*,auto">
+        <controls:MTAdView BackgroundColor="Transparent"
+                           AdsId="ca-app-pub-9288691776778983/3798818552"
+                           AdSize="AnchoredAdaptive"
+                           VerticalOptions="Center"
+                           IsVisible="true"
+                           Grid.Row="0"
+                           />
+        <VerticalStackLayout Grid.Row="1">
+            <VerticalStackLayout.Background>
+                <LinearGradientBrush StartPoint="1, 0" EndPoint="1, 1">
+                    <GradientStop Offset="0.1" Color="{AppThemeBinding Light={StaticResource Gray600}, Dark={StaticResource Gray950}}" />
+                    <GradientStop Offset="1.0" Color="{AppThemeBinding Light={StaticResource BrancoGelo}, Dark={StaticResource Gray300}}" />
+                </LinearGradientBrush>
+            </VerticalStackLayout.Background>
+            <Grid RowDefinitions="570,70">
+                <Grid RowDefinitions="60,60, 436" >
+                    <Grid ColumnDefinitions="40,210,60"  HorizontalOptions="Center" Grid.Row="0" Margin="0,-30">
+
+                        <Label Text="R$:"
+                               Grid.Column="0"
+                               FontSize="20"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                               HorizontalOptions="End"
+                               x:Name="moedaCorrente"
+                               TextColor="{AppThemeBinding Light={StaticResource Gray200}, Dark={StaticResource Gray100}}"
+                               Margin="0,10"
+                               />
+                        <Label Text=""
+                               Grid.Column="1"
+                               FontSize="40"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                               HorizontalOptions="Center"
+                               x:Name="ValorDaSoma"
+                               TextColor="{AppThemeBinding Light={StaticResource White}, Dark={StaticResource Gray100}}"
+                               Margin="0,10"
+                               />
+                        <Label Text=""
+                               IsVisible="false"
+                               Grid.Column="1"
+                               FontSize="40"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                               HorizontalOptions="Center"
+                               x:Name="ValueToExpend"
+                               TextColor="{AppThemeBinding Light={StaticResource White}, Dark={StaticResource Gray100}}"
+                               Margin="0,10"
+                               />
+                        <Label Text="resta"
+                               IsVisible="false"
+                               Grid.Column="1"
+                               FontSize="40"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                               HorizontalOptions="Center"
+                               x:Name="RestValue"
+                               TextColor="{AppThemeBinding Light={StaticResource White}, Dark={StaticResource Gray100}}"
+                               Margin="0,10"
+                               />
+                        <Entry Placeholder=""
+                               IsVisible="false"
+                               IsEnabled="False"
+                               Grid.Column="1"
+                               FontSize="18"
+                               Keyboard="Numeric"
+                               HorizontalTextAlignment="Center"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                               HorizontalOptions="Center"
+                               TextColor="{AppThemeBinding Light={StaticResource White}, Dark={StaticResource Gray100}}"
+                               PlaceholderColor="{StaticResource Gray300}"
+                               x:Name="EntryToExpand"
+                               Margin="0,20"
+                               />
+
+                        <Button
+                            IsVisible="false"
+                            Grid.Column="2"
+                            CornerRadius="5"
+                            HeightRequest="35"
+                            WidthRequest="35"
+                            VerticalOptions="Center"
+                            HorizontalOptions="Center"
+                            x:Name="ValueToExpendButton"
+                            TextColor="{StaticResource Gray900}"
+                            BackgroundColor="{StaticResource BrancoCalcu}"
+                            Margin="0,10"
+                            Clicked="ValueToExpendButton_Clicked"
+                            >
+                            <Button.ImageSource>
+                                <FontImageSource Glyph="attach_money" Size="18" Color="Black" FontFamily="definetiveIcon" x:Name="glyphMoney"/>
+                            </Button.ImageSource>
+                        </Button>
+
+                        <Label Text=""
+                               IsVisible="false"
+                               Grid.Column="2"
+                               FontSize="40"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                               HorizontalOptions="Center"
+                               x:Name="Descript"
+                               TextColor="{AppThemeBinding Light={StaticResource White}, Dark={StaticResource Gray100}}"
+                               Margin="0,10"
+                               />
+
+                    </Grid>
+                    <!--grid for entries-->
+                    <HorizontalStackLayout HorizontalOptions="CenterAndExpand" Grid.Row="1">
+                        <Button
+                            Clicked="HidenEye_Clicked_BlueEye"
+                            WidthRequest="115"
+                            HeightRequest="40"
+                            CornerRadius="1"
+                            x:Name="HidenEye"
+                            BorderWidth="0">
+
+                            <Button.ImageSource>
+                                <FontImageSource Glyph="visibility" Size="35" FontFamily="definetiveIcon" x:Name="glyphEye"/>
+                            </Button.ImageSource>
+                            <Button.Background>
+                                <LinearGradientBrush StartPoint="0,0" EndPoint="1, 1">
+                                    <GradientStop Offset="0.3" Color="{StaticResource Blue100Accent}" />
+                                    <GradientStop Offset="1.0" Color="{StaticResource Blue200Accent}" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                        <Button
+                            Text="Soma"
+                            x:Name="buttonSoma"
+                            Clicked="Button_Clicked_MidleButto"
+                            TextColor="Black"
+                            FontSize="16"
+                            FontAttributes="Bold"
+                            FontFamily="OpenSans"
+                            Padding="-10"
+                            WidthRequest="115"
+                            HeightRequest="40"
+                            CornerRadius="1"
+                            BackgroundColor="Yellow"
+                            BorderWidth="0">
+
+
+                        </Button>
+                        <Button
+                            Text="+"
+                            Clicked="ButtonAdd_Clicked"
+                            FontSize="39"
+                            Padding="-10"
+                            FontAttributes="Bold"
+                            WidthRequest="115"
+                            HeightRequest="40"
+                            CornerRadius="1"
+                            BorderWidth="0">
+                            <Button.Background>
+                                <LinearGradientBrush StartPoint="0,0" EndPoint="1, 1">
+                                    <GradientStop Offset="0.3" Color="ForestGreen" />
+                                    <GradientStop Offset="1.0" Color="PaleGreen" />
+                                </LinearGradientBrush>
+                            </Button.Background>
+                        </Button>
+                    </HorizontalStackLayout>
+                    <ScrollView x:Name="ReScrollView" Grid.Row="2" HorizontalOptions="Center">
+                        <VerticalStackLayout>
+                            <Grid ColumnDefinitions="40,180,50" Margin="65, 10">
+                                <Label Text="Qtd" TextColor="{StaticResource White}" FontSize="12" />
+                                <Label Grid.Column="1" Text=" Nome do produto" TextColor="{StaticResource White}" FontSize="12" />
+                                <Label Grid.Column="2" Text=" Valor" TextColor="{StaticResource White}" FontSize="12" />
+                            </Grid>
+
+                            <Border StrokeThickness="0" BackgroundColor="Transparent" HorizontalOptions="End" Margin="2,0">
+                                <Grid>
+                                    <CollectionView x:Name="collectionViewListas">
+                                        <CollectionView.ItemTemplate>
+                                            <DataTemplate>
+                                                <SwipeView Threshold="60">
+                                                    <SwipeView.RightItems>
+                                                        <SwipeItems >
+                                                            <SwipeItem IconImageSource="reciclered.png"
+                                                                       Invoked="SwipeItem_Invoked_Delete"
+                                                                       CommandParameter="{Binding .}"
+                                                                       BackgroundColor="Transparent" />
+                                                        </SwipeItems>
+                                                    </SwipeView.RightItems>
+                                                    <Grid ColumnDefinitions="40,300" >
+                                                        <Grid.GestureRecognizers>
+                                                            <DragGestureRecognizer />
+                                                            <DropGestureRecognizer  />
+
+                                                        </Grid.GestureRecognizers>
+                                                        <CheckBox CheckedChanged="CheckBox_CheckedChanged"
+                                                                  x:Name="checkProduto"
+                                                                  IsChecked="{Binding Ccheck}"
+                                                                  WidthRequest="35"
+                                                                  HeightRequest="35" />
+                                                        <Border
+                                                            Margin="0, 5"
+                                                            Grid.Column="1"
+                                                            HeightRequest="37"
+                                                            WidthRequest="290"
+                                                            StrokeShape="RoundRectangle 5"
+                                                            StrokeThickness="0"
+                                                            Background="white"
+                                                            HorizontalOptions="End" >
+
+
+                                                            <HorizontalStackLayout >
+
+                                                                <Grid  ColumnDefinitions="55,140,70" RowDefinitions="auto"  IsVisible="true">
+
+
+
+                                                                    <Button Text="{Binding Quant}" TextColor="{StaticResource Black}"
+                                                                            WidthRequest="30"
+                                                                            HeightRequest="40"
+                                                                            FontFamily="OpenSansRegular"
+                                                                            BackgroundColor="Transparent"
+                                                                            VerticalOptions="End"
+                                                                            Clicked="Button_Clicked_Quant_Update"
+                                                                            CommandParameter="{Binding .}"
+                                                                            Margin="-10,0"
+                                                                            Padding="-10"
+                                                                            FontSize="16" />
+
+                                                                    <Label
+                                                                        Text="{Binding ProductName}"
+                                                                        Grid.Column="1"
+                                                                        TextColor="{StaticResource Black}"
+                                                                        IsVisible="true"
+                                                                        WidthRequest="150"
+                                                                        HeightRequest="28"
+                                                                        Padding="3"
+                                                                        FontSize="14" />
+
+
+                                                                    <Button Text="{Binding UserValue}"
+                                                                            BackgroundColor="Transparent"
+                                                                            TextColor="Black"
+                                                                            Padding="-10"
+                                                                            Margin="-19,4"
+                                                                            HorizontalOptions="End"
+                                                                            FontSize="18"
+
+                                                                            FontFamily="OpenSansRegular"
+                                                                            WidthRequest="66"
+                                                                            HeightRequest="30"
+                                                                            CornerRadius="10"
+                                                                            Grid.Column="4"
+                                                                            BorderWidth="0"
+                                                                            Clicked="Button_Clicked_Value_Change"
+                                                                            IsEnabled="True"
+                                                                            CommandParameter="{Binding .}"
+                                                                            />
+
+                                                                </Grid>
+                                                            </HorizontalStackLayout>
+                                                        </Border>
+
+                                                    </Grid>
+                                                </SwipeView>
+                                            </DataTemplate>
+                                        </CollectionView.ItemTemplate>
+                                    </CollectionView>
+                                </Grid>
+                            </Border>
+
+
+
+                        </VerticalStackLayout>
+                    </ScrollView>
+
+                </Grid>
+
+            </Grid>
+        </VerticalStackLayout>
+        <controls:MTAdView BackgroundColor="Transparent"
+                           HeightRequest="45"
+                           AdsId="ca-app-pub-9288691776778983/3798818552"
+                           AdSize="AnchoredAdaptive"
+                           VerticalOptions="EndAndExpand"
+                           IsVisible="true"
+                           Grid.Row="1"
+                           />
+    </Grid>
+
+</ContentPage>
+
+<!--
+
+-->
